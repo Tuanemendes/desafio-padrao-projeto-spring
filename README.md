@@ -39,10 +39,14 @@ Desafio apresentado pelo tech
 
 <p>
 Primeio processo foi realizar a criação do projeto pelo spring initializr onde foram implementada as seguintes dependecias:
-<strong>-Spring Web:</strong>  
-<strong>-Spring Data JPA:</strong>   
-<strong>-H2 databese:</strong>  é utilizado para criar um banco em mémoria 
-<strong>-OpenFeign:</strong>  
+<strong>-Spring Web:</strong>
+<br> 
+<strong>-Spring Data JPA:</strong> 
+<br> 
+<strong>-H2 databese:</strong>  é utilizado para criar um banco em mémoria
+<br> 
+<strong>-OpenFeign:</strong> 
+<br> 
 
 </p>
 
