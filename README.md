@@ -23,7 +23,7 @@ Desafio apresentado pelo tech
 
 
 
-<h2>🛠️ Ferramentas Utilizadas</h2>
+<h2>🛠️Ferramentas Utilizadas</h2>
 
 <p>
 
@@ -34,11 +34,11 @@ Desafio apresentado pelo tech
 🟢  Spring Initializr
 
 </p>
-
-<h2>👩‍🎓 Conceitos</h2>
+<h2> ⛏️ Construção</h2>
 
 <p>
 Primeio processo foi realizar a criação do projeto pelo spring initializr onde foram implementada as seguintes dependecias:
+<br> 
 <strong>-Spring Web:</strong>
 <br> 
 <strong>-Spring Data JPA:</strong> 
@@ -47,14 +47,13 @@ Primeio processo foi realizar a criação do projeto pelo spring initializr onde
 <br> 
 <strong>-OpenFeign:</strong> 
 <br> 
-
 </p>
 
+<h2>👩‍🎓 Conceitos</h2>
 
 <p>
 
 <strong>Spring-boot</strong> 
-
 
 <strong>Anotations</strong>  
 
