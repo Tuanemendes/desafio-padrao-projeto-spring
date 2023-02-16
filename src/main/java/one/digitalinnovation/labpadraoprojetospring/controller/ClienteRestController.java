@@ -7,11 +7,11 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("clientes")
+@RequestMapping("/clientes")
 public class ClienteRestController {
 
     @Autowired
-    ClienteService clienteService;
+     private ClienteService clienteService;
 
     @GetMapping
     public ResponseEntity<Iterable<Cliente>> buscarTodos(){

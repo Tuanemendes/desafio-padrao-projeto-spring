@@ -1,7 +1,9 @@
-package one.digitalinnovation.labpadraoprojetospring.repository;
+package one.digitalinnovation.labpadraoprojetospring.model;
 
 import one.digitalinnovation.labpadraoprojetospring.model.Endereco;
 import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
 
+@Repository
 public interface EnderecoRepository extends CrudRepository<Endereco,String> {
 }
