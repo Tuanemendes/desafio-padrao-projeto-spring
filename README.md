@@ -43,7 +43,17 @@ Primeio processo foi realizar a criação do projeto pelo spring initializr onde
 <br> 
 <strong>-Spring Data JPA:</strong> 
 <br> 
-<strong>-H2 databese:</strong>  é utilizado para criar um banco em mémoria
+<strong>-H2 databese:</strong>  é utilizado para criar um banco em mémoria com as configurações no arquivo application.properties
+### H2
+spring.h2.console.enabled=true
+spring.h2.console.path=/h2
+
+### Datasource
+spring.datasource.url=jdbc:h2:file:/home/tuanemendes/Documents/bdh2
+spring.datasource.username=sa
+spring.datasource.password=
+spring.datasource.driver-class-name=org.h2.Driver
+spring.jpa.hibernate.ddl-auto=update
 <br> 
 <strong>-OpenFeign:</strong> 
 <br> 
